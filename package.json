@@ -1,0 +1,14 @@
+{
+  "name": "node-fetch-body-demo",
+  "version": "1.0.0",
+  "description": "an example on how to send and recieve json using http module in node",
+  "main": "sendingServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alvin lal",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
